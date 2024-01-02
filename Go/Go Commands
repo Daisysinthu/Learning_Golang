@@ -1,0 +1,19 @@
+Go Commands:
+============
+
+Go mod tidy -> find and update the dependencies throught the project
+
+Go mod init --> initialize the module
+
+go run <file> -- > Compile and builds and executable binary in a temp location
+
+go build --> compiles the packages named by the import paths, along with the dependencies into an executable.
+
+go install --> Compile and move the exec to $GO_PATH/build dir
+
+To check the go env
+
+go env  GOPATH
+
+go get -->  check for specific version, updated go.mod and download the code into module cache Eg: go get example.com/pkg
+
