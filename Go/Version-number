@@ -1,0 +1,9 @@
+Versioning
+
+1 - Major Versioning
+
+0 - Minor versioning - Gaurantees backward compatability
+
+0 - Patch version - Does not affect module public api
+
+beta.2 - Prerelease version change
